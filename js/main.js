@@ -10,4 +10,4 @@ function removeElement (array, item) {
     return array;
 }; 
 
-console.log(removeElement(array, 10));
+console.log(removeElement(array, 2));
